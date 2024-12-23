@@ -1,3 +1,5 @@
 {
-  "password": "Izumi"
+  "allowedIPs": [
+    "140.213.139.147"
+  ]
 }
