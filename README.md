@@ -143,19 +143,19 @@
 
 ## 📋 Table of Contents
 
-| No. | Section                                                                                                                                           | Description                                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 1.  | [![Description](https://img.shields.io/badge/📖-Description-FFC0CB?style=for-the-badge)](#-liora--whatsapp-md-script)                             | General overview of the project                    |
-| 2.  | [![Key Features](https://img.shields.io/badge/📂-Key_Features-FFC0CB?style=for-the-badge)](#-key-features)                                        | Core features included in the bot                  |
-| 3.  | [![Popular Features](https://img.shields.io/badge/🔥-Popular-FFC0CB?style=for-the-badge)](#-popular-features)                                     | Frequently used features loved by users            |
-| 4.  | [![Technical Details](https://img.shields.io/badge/⚙️-Technical-FFC0CB?style=for-the-badge)](#-technical-details)                                 | Node.js version, dependencies, and setup details   |
-| 5.  | [![Contact](https://img.shields.io/badge/📞-Contact-FFC0CB?style=for-the-badge)](#-contact--information)                                          | How to reach the developers/maintainers            |
-| 6.  | [![Project Structure](https://img.shields.io/badge/🧱-Structure-FFC0CB?style=for-the-badge)](#-project-structure)                                 | Explanation of folders and files in the repo       |
+| No. | Section | Description |
+| --- | ------- | ----------- |
+| 1.  | [![Description](https://img.shields.io/badge/📖-Description-FFC0CB?style=for-the-badge)](#-liora--whatsapp-md-script) | General overview of the project |
+| 2.  | [![Key Features](https://img.shields.io/badge/📂-Key_Features-FFC0CB?style=for-the-badge)](#-key-features) | Core features included in the bot |
+| 3.  | [![Popular Features](https://img.shields.io/badge/🔥-Popular-FFC0CB?style=for-the-badge)](#-popular-features) | Frequently used features loved by users |
+| 4.  | [![Technical Details](https://img.shields.io/badge/⚙️-Technical-FFC0CB?style=for-the-badge)](#-technical-details) | Node.js version, dependencies, and setup details |
+| 5.  | [![Contact](https://img.shields.io/badge/📞-Contact-FFC0CB?style=for-the-badge)](#-contact--information) | How to reach the developers/maintainers |
+| 6.  | [![Project Structure](https://img.shields.io/badge/🧱-Structure-FFC0CB?style=for-the-badge)](#-project-structure) | Explanation of folders and files in the repo |
 | 7.  | [![API Key & Whitelist IP](https://img.shields.io/badge/🔐-API_Whitelist-FFC0CB?style=for-the-badge)](#-setting-api-key--whitelist-ip---betabotz) | Guide for securing API access with whitelisted IPs |
-| 8.  | [![Thanks](https://img.shields.io/badge/💝-Thanks-FFC0CB?style=for-the-badge)](#-thanks--credits)                                                 | Acknowledgements and contributors                  |
-| 9.  | [![License](https://img.shields.io/badge/📜-License-FFC0CB?style=for-the-badge)](#-license)                                                       | License information                                |
-| 10. | [![Support](https://img.shields.io/badge/💖-Support-FFC0CB?style=for-the-badge)](#-support)                                                       | Ways to support the project                        |
-| 11. | [![Arigatou](https://img.shields.io/badge/🌸-Arigatou-FFC0CB?style=for-the-badge)](#-arigatou-ne)                                                 | Gratitude and final words                          |
+| 8.  | [![Thanks](https://img.shields.io/badge/💝-Thanks-FFC0CB?style=for-the-badge)](#-thanks--credits) | Acknowledgements and contributors |
+| 9.  | [![License](https://img.shields.io/badge/📜-License-FFC0CB?style=for-the-badge)](#-license) | License information |
+| 10. | [![Support](https://img.shields.io/badge/💖-Support-FFC0CB?style=for-the-badge)](#-support) | Ways to support the project |
+| 11. | [![Arigatou](https://img.shields.io/badge/🌸-Arigatou-FFC0CB?style=for-the-badge)](#-arigatou-ne) | Gratitude and final words |
 
 ## 🛡️ Security & Bug Reports
 
@@ -165,17 +165,17 @@
 We take security, stability, and the comfort of contributors very seriously.  
 If you discover a **vulnerability** or a **bug**, please report it responsibly through the following:
 
-- 🔐 **Security Issues:** Follow the [Security Policy](SECURITY.md)
-- 🐞 **Bug Reports:** Choose an issue template:
-    - [🍩 Bug Report (Bahasa Indonesia)](../../issues/new?template=bug-report-id.md)
-    - [🍬 Bug Report (English)](../../issues/new?template=bug-report-us.md)
+- 🔐 **Security Issues:** Follow the [Security Policy](SECURITY.md)  
+- 🐞 **Bug Reports:** Choose an issue template:  
+  - [🍩 Bug Report (Bahasa Indonesia)](../../issues/new?template=bug-report-id.md)  
+  - [🍬 Bug Report (English)](../../issues/new?template=bug-report-us.md)  
 
 ---
 
 > [!CAUTION]  
 > ⚠️ Please **do not disclose vulnerabilities or bugs publicly** without reporting them first.  
 > Instead, use the provided issue templates to submit detailed reports.  
-> This ensures the **safety, comfort, and trust** of all users. ✨
+> This ensures the **safety, comfort, and trust** of all users. ✨  
 
 ---
 
@@ -183,33 +183,31 @@ If you discover a **vulnerability** or a **bug**, please report it responsibly t
 > ❗ **Commercial usage is not allowed.**  
 > Do not attempt to **sell, rebrand, or monetize** this source code.  
 > This repository is built for **learning, collaboration, and contribution purposes only.**  
-> Respect the open-source spirit so the community can grow together.
+> Respect the open-source spirit so the community can grow together.  
 
 ---
 
 > [!TIP]  
-> 💡 Best practices for users & developers:
->
-> - Always keep your personal `.env` file **private** and never commit it.
-> - The `.env` included in this repository is only an **example template** for reference.
-> - Regularly **update** your local version of this project (`git pull origin main`) to stay synced.
-> - When reporting bugs, include **logs, screenshots, or exact error messages** to help us trace issues faster.
+> 💡 Best practices for users & developers:  
+> - Always keep your personal `.env` file **private** and never commit it.  
+> - The `.env` included in this repository is only an **example template** for reference.  
+> - Regularly **update** your local version of this project (`git pull origin main`) to stay synced.  
+> - When reporting bugs, include **logs, screenshots, or exact error messages** to help us trace issues faster.  
 
 ---
 
 > [!WARNING]  
-> 🚫 **Credit removal, modification, or selling this source code is strictly prohibited.**
->
-> 🔖 You must **keep all author credits intact** in visible places such as:
->
-> - README.md
-> - Configuration files
-> - Bot commands (`about`, `info`, etc.)
->
+> 🚫 **Credit removal, modification, or selling this source code is strictly prohibited.**  
+>   
+> 🔖 You must **keep all author credits intact** in visible places such as:  
+> - README.md  
+> - Configuration files  
+> - Bot commands (`about`, `info`, etc.)  
+>   
 > 💸 **Selling, monetizing, or redistributing this source code for personal gain is not allowed.**  
-> This project is open-source and meant for learning, collaboration, and community growth — not exploitation.
->
-> ❤️ Remember: Credits are not just names. They represent _respect, recognition, and appreciation_ to contributors who made this project possible.
+> This project is open-source and meant for learning, collaboration, and community growth — not exploitation.  
+>   
+> ❤️ Remember: Credits are not just names. They represent *respect, recognition, and appreciation* to contributors who made this project possible.
 
 ---
 
@@ -382,7 +380,7 @@ We sincerely thank the following parties who have been instrumental in the devel
 
 ### 📦 Libraries & Frameworks
 
-- 🧩 [`@itsukichann/baileys`](https://github.com/Itsukichann/Baileys) — main foundation for WhatsApp Web API.
+- 🧩 [`@itsukichann/baileys`](https://github.com/Itsukichann/Baileys) — main foundation for WhatsApp Web API.  
 - ❤️ **Open Source Dependencies** — to all GitHub contributors and communities 🌐.
 
 ### 🌐 Public API Providers
